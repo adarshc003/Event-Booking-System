@@ -1,6 +1,6 @@
-# MERN Event Management System
+# MERN Event Booking System
 
-A full-stack event management application built using the MERN stack.
+A full-stack event booking application built using the MERN stack.
 
 ## Tech Stack
 - MongoDB
